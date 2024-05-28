@@ -8,21 +8,21 @@
     - [Offline Extraction](#offline-extraction)
     - [Similarity](#similarity)
     - [Difference](#difference)
-    - [Conclusion](#conclusion)
+
 2. [ETL vs ELT](#etl-vs-elt)
     - [Definition](#definition-1)
     - [ETL](#etl)
     - [ELT](#elt)
     - [Similar](#similar-1)
     - [Difference](#difference-1)
-    - [Conclusion](#conclusion-1)
+
 3. [Virtual Environment vs Virtual Machine vs Container](#ve-vm-con)
     - [Virtual Environment](#ve)
     - [Virtual Machine](#vm)
     - [Container](#con)
     - [Similar](#similar-2)
     - [Difference](#difference-2)
-    - [Conclusion](#conclusion-2)
+
 
 ## <span id = "online-vs-offline-extraction" style="color:red">Online vs Offline Extraction</span>
 ### <span id = "definition" style="color:yellow">Definition</span>

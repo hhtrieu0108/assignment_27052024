@@ -73,7 +73,7 @@
 - <span style="color:green">Virtual Machine</span> : Extract, Load, Transform
 - <span style="color:green">Container</span> : Extract, Load, Transform
 
-### <span id = "etl" style="color:yellow">Virtual Environment</span>
+### <span id = "ve" style="color:yellow">Virtual Environment</span>
 - <span style="color:green">**Characteristics**</span>
     - Extract, Transform, Load process.
 - <span style="color:green">**Advantages**</span>
@@ -81,7 +81,7 @@
 - <span style="color:green">**Disadvantages**</span>
     - Processing can be slower.
 
-### <span id="elt" style="color:yellow">Virtual Machine</span>
+### <span id="vm" style="color:yellow">Virtual Machine</span>
 - <span style="color:green">**Characteristics**</span>
     - Extract, Load, Transform process.
 - <span style="color:green">**Advantages**</span>
@@ -89,7 +89,7 @@
 - <span style="color:green">**Disadvantages**</span>
     - Requires powerful processing capability.
 
-### <span id="elt" style="color:yellow">Container</span>
+### <span id="con" style="color:yellow">Container</span>
 - <span style="color:green">**Characteristics**</span>
     - Extract, Load, Transform process.
 - <span style="color:green">**Advantages**</span>

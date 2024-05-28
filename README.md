@@ -101,15 +101,6 @@
 | Security and Privacy| Raises concerns about data privacy and legality            | Offers advantages in data security and privacy              |
 | Scalability         | Can be scaled up for extensive data collection             | May have limitations in scalability                         |
 
-
-### <span id = "conclusion" style="color:yellow">Conclusion</span>
-
-- In conclusion, the choice between offline extraction and online extraction depends on various factors such as data source accessibility, connectivity requirements, data privacy considerations, and scalability needs.
-
-- Offline extraction offers advantages in terms of data privacy, stability, and compliance, making it preferable for handling sensitive or confidential information stored locally. It may also provide better control over the extraction process and ensure data integrity, but it may have limitations in data scope and scalability.
-
-- On the other hand, online extraction provides access to a wide range of real-time data from websites and online sources, making it suitable for tasks requiring extensive data collection, competitive intelligence, and market analysis. However, it raises concerns related to data privacy, legality, and the risk of being blocked or detected by websites.
-
 ## <span id = "etl-vs-elt" style="color:red">ETL vs ELT</span>
 ### <span id = "definition-1" style="color:yellow">Definition</span>
 

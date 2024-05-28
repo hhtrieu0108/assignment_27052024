@@ -46,6 +46,10 @@
 #### Flowchart :
 ![Flowchart](offline_extraction.png)
 
+### <span id = "conclusion" style="color:yellow">Conclusion</span>
+- <span style="color:green">ETL</span> : Extract, Transform, Load
+- <span style="color:green">ELT</span> : Extract, Load, Transform
+
 ## <span id = "etl-vs-elt" style="color:red">ETL vs ELT</span>
 ### <span id = "definition-1" style="color:yellow">Definition</span>
 - <span style="color:green">ETL</span> : Extract, Transform, Load
@@ -66,6 +70,10 @@
     - Can handle large volumes of data.
 - <span style="color:green">**Disadvantages**</span>
     - Requires powerful processing capability.
+
+### <span id = "conclusion-1" style="color:yellow">Conclusion</span>
+- <span style="color:green">ETL</span> : Extract, Transform, Load
+- <span style="color:green">ELT</span> : Extract, Load, Transform
 
 ## <span id = "ve-vm-con" style="color:red">Virtual Environment vs Virtual Machine vs Container</span>
 ### <span id = "definition-1" style="color:yellow">Definition</span>
@@ -96,3 +104,7 @@
     - Can handle large volumes of data.
 - <span style="color:green">**Disadvantages**</span>
     - Requires powerful processing capability.
+
+### <span id = "conclusion-2" style="color:yellow">Conclusion</span>
+- <span style="color:green">ETL</span> : Extract, Transform, Load
+- <span style="color:green">ELT</span> : Extract, Load, Transform

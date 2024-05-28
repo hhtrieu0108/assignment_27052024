@@ -26,9 +26,9 @@
 
 ## <span id = "online-vs-offline-extraction" style="color:red">Online vs Offline Extraction</span>
 ### <span id = "definition" style="color:yellow">Definition</span>
-- <span style="color:green">Online Extraction</span> : Typically refers to the process of retrieving specific information or data from a digital source in real-time or near-real-time. It involves extracting relevant data from various online platforms, such as websites, databases, social media, or any other digital sources where information is stored or updated regularly.
+- <span style="color:green">**Online Extraction**</span> : Typically refers to the process of retrieving specific information or data from a digital source in real-time or near-real-time. It involves extracting relevant data from various online platforms, such as websites, databases, social media, or any other digital sources where information is stored or updated regularly.
 
-- <span style="color:green">Offline Extraction</span> : Refers to the process of retrieving specific information or data from sources that are not directly connected to the internet or are not actively updated in real-time. Unlike online extraction, which involves accessing digital sources in real-time or near-real-time, offline extraction involves accessing data that has been previously stored or collected and is typically static or updated less frequently.
+- <span style="color:green">**Offline Extraction**</span> : Refers to the process of retrieving specific information or data from sources that are not directly connected to the internet or are not actively updated in real-time. Unlike online extraction, which involves accessing digital sources in real-time or near-real-time, offline extraction involves accessing data that has been previously stored or collected and is typically static or updated less frequently.
 
 ### <span id = "online-extraction" style="color:yellow">Online Extraction</span>
 - <span style="color:green">**Characteristics**</span>
@@ -104,8 +104,8 @@
 ## <span id = "etl-vs-elt" style="color:red">ETL vs ELT</span>
 ### <span id = "definition-1" style="color:yellow">Definition</span>
 
-- <span style="color:green">ETL</span> : Stand for Extract, Transform and Load.ETL is a process that involves extracting data from various sources, transforming it to fit operational needs, and loading it into a target destination such as a data warehouse or database.
-- <span style="color:green">ELT</span> : Stand for Extract, Load and Transform.ELT refers to the process of extracting data from various sources, loading it into a target destination (usually a data warehouse), and then transforming it within the destination system. Unlike ETL, where transformation occurs before loading into the destination, ELT loads the data first and performs transformations within the target system using its processing capabilities.
+- <span style="color:green">**ETL**</span> : Stand for Extract, Transform and Load.ETL is a process that involves extracting data from various sources, transforming it to fit operational needs, and loading it into a target destination such as a data warehouse or database.
+- <span style="color:green">**ELT**</span> : Stand for Extract, Load and Transform.ELT refers to the process of extracting data from various sources, loading it into a target destination (usually a data warehouse), and then transforming it within the destination system. Unlike ETL, where transformation occurs before loading into the destination, ELT loads the data first and performs transformations within the target system using its processing capabilities.
 
 ### <span id = "etl" style="color:yellow">ETL</span>
 - <span style="color:green">**Characteristics**</span>
@@ -165,11 +165,11 @@
 
 ## <span id = "ve-vm-con" style="color:red">Virtual Environment vs Virtual Machine vs Container</span>
 ### <span id = "definition-2" style="color:yellow">Definition</span>
-- <span style="color:green">Virtual Environment </span> : A virtual environment is a self-contained environment where software can run in isolation from the rest of the system. It typically includes a specific version of a programming language interpreter (like Python), along with a set of libraries and dependencies required for a particular project or application. Virtual environments are commonly used in software development to manage dependencies and ensure consistency across different projects or deployments. Tools like virtualenv for Python or venv (built-in with Python 3) are used to create and manage virtual environments.
+- <span style="color:green">**Virtual Environment**</span> : A virtual environment is a self-contained environment where software can run in isolation from the rest of the system. It typically includes a specific version of a programming language interpreter (like Python), along with a set of libraries and dependencies required for a particular project or application. Virtual environments are commonly used in software development to manage dependencies and ensure consistency across different projects or deployments. Tools like virtualenv for Python or venv (built-in with Python 3) are used to create and manage virtual environments.
 
-- <span style="color:green">Virtual Machine</span> : A virtual machine is an emulation of a physical computer system, capable of running an operating system (OS) and applications just like a physical machine. However, it runs on top of a physical host machine through a hypervisor, which provides the necessary virtualization capabilities. Each virtual machine is isolated from other VMs running on the same host, allowing multiple operating systems and applications to run on a single physical machine simultaneously. VMs are widely used for server virtualization, cloud computing, software testing, and development environments.
+- <span style="color:green">**Virtual Machine**</span> : A virtual machine is an emulation of a physical computer system, capable of running an operating system (OS) and applications just like a physical machine. However, it runs on top of a physical host machine through a hypervisor, which provides the necessary virtualization capabilities. Each virtual machine is isolated from other VMs running on the same host, allowing multiple operating systems and applications to run on a single physical machine simultaneously. VMs are widely used for server virtualization, cloud computing, software testing, and development environments.
 
-- <span style="color:green">Container</span> : A container is a lightweight, portable, and self-sufficient software package that includes everything needed to run an application, such as code, runtime, system tools, libraries, and settings. Containers provide a consistent environment across different platforms and ensure that the application behaves the same way regardless of where it's deployed. Unlike virtual machines, containers share the host OS kernel but are isolated from each other using containerization technologies like Docker or Kubernetes. Containers offer advantages such as faster startup times, efficient resource utilization, and scalability, making them popular for deploying microservices, building cloud-native applications, and continuous integration/continuous deployment (CI/CD) pipelines.
+- <span style="color:green">**Container**</span> : A container is a lightweight, portable, and self-sufficient software package that includes everything needed to run an application, such as code, runtime, system tools, libraries, and settings. Containers provide a consistent environment across different platforms and ensure that the application behaves the same way regardless of where it's deployed. Unlike virtual machines, containers share the host OS kernel but are isolated from each other using containerization technologies like Docker or Kubernetes. Containers offer advantages such as faster startup times, efficient resource utilization, and scalability, making them popular for deploying microservices, building cloud-native applications, and continuous integration/continuous deployment (CI/CD) pipelines.
 
 ### <span id = "ve" style="color:yellow">Virtual Environment</span>
 - <span style="color:green">**Characteristics**</span>
@@ -200,9 +200,9 @@
 
 - <span style="color:green">**Advantages**</span>
 
-    - Strong Isolation: VMs offer strong isolation, ensuring that applications running on one VM do not impact others.
-    - Versatility: VMs support running different operating systems, making them suitable for a wide range of applications and use cases.
-    - Security: VMs can enhance security by sandboxing applications and providing isolation from the host system.
+    - **Strong Isolation**: VMs offer strong isolation, ensuring that applications running on one VM do not impact others.
+    - **Versatility**: VMs support running different operating systems, making them suitable for a wide range of applications and use cases.
+    - **Security**: VMs can enhance security by sandboxing applications and providing isolation from the host system.
 
 - <span style="color:green">**Disadvantages**</span>
 

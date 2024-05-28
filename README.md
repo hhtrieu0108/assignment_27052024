@@ -30,7 +30,7 @@
     - Capture and process data as it streams.
 - <span style="color:green">**Disadvantages**</span>
     - Capture and process data as it streams.
-##### [Link direct to online extraction code github](https://github.com/yourusername/yourrepository)
+##### [Link direct to online extraction code github](https://github.com/hhtrieu0108/assignment_27052024/tree/main/online_extraction)
 #### Flowchart :
 ![Flowchart](online_extraction.png)
 
@@ -42,7 +42,7 @@
     - Capture and process data as it streams.
 - <span style="color:green">**Disadvantages**</span>
     - Capture and process data as it streams.
-##### [Link direct to offline extraction code github](https://github.com/yourusername/yourrepository)
+##### [Link direct to offline extraction code github](https://github.com/hhtrieu0108/assignment_27052024/tree/main/offline_extraction)
 #### Flowchart :
 ![Flowchart](offline_extraction.png)
 

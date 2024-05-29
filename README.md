@@ -26,9 +26,9 @@
 
 ## <span id = "online-vs-offline-extraction" style="color:red">Online vs Offline Extraction</span>
 ### <span id = "definition" style="color:yellow">Definition</span>
-- <span style="color:green">Online Extraction</span> : Typically refers to the process of retrieving specific information or data from a digital source in real-time or near-real-time. It involves extracting relevant data from various online platforms, such as websites, databases, social media, or any other digital sources where information is stored or updated regularly.
+- **<span style="color:green">Online Extraction</span>** : Typically refers to the process of retrieving specific information or data from a digital source in real-time or near-real-time. It involves extracting relevant data from various online platforms, such as websites, databases, social media, or any other digital sources where information is stored or updated regularly.
 
-- <span style="color:green">Offline Extraction</span> : Refers to the process of retrieving specific information or data from sources that are not directly connected to the internet or are not actively updated in real-time. Unlike online extraction, which involves accessing digital sources in real-time or near-real-time, offline extraction involves accessing data that has been previously stored or collected and is typically static or updated less frequently.
+- **<span style="color:green">Offline Extraction</span>** : Refers to the process of retrieving specific information or data from sources that are not directly connected to the internet or are not actively updated in real-time. Unlike online extraction, which involves accessing digital sources in real-time or near-real-time, offline extraction involves accessing data that has been previously stored or collected and is typically static or updated less frequently.
 
 ### <span id = "online-extraction" style="color:yellow">Online Extraction</span>
 - <span style="color:green">**Characteristics**</span>
@@ -122,8 +122,8 @@
 ## <span id = "etl-vs-elt" style="color:red">ETL vs ELT</span>
 ### <span id = "definition-1" style="color:yellow">Definition</span>
 
-- <span style="color:green">ETL</span> : Stand for Extract, Transform and Load.ETL is a process that involves extracting data from various sources, transforming it to fit operational needs, and loading it into a target destination such as a data warehouse or database.
-- <span style="color:green">ELT</span> : Stand for Extract, Load and Transform.ELT refers to the process of extracting data from various sources, loading it into a target destination (usually a data warehouse), and then transforming it within the destination system. Unlike ETL, where transformation occurs before loading into the destination, ELT loads the data first and performs transformations within the target system using its processing capabilities.
+- **<span style="color:green">ETL</span>** : Stand for Extract, Transform and Load.ETL is a process that involves extracting data from various sources, transforming it to fit operational needs, and loading it into a target destination such as a data warehouse or database.
+- **<span style="color:green">ELT</span>** : Stand for Extract, Load and Transform.ELT refers to the process of extracting data from various sources, loading it into a target destination (usually a data warehouse), and then transforming it within the destination system. Unlike ETL, where transformation occurs before loading into the destination, ELT loads the data first and performs transformations within the target system using its processing capabilities.
 
 ### <span id = "etl" style="color:yellow">ETL</span>
 - <span style="color:green">**Characteristics**</span>

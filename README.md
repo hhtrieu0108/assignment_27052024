@@ -13,14 +13,14 @@
     - [Definition](#definition-1)
     - [ETL](#etl)
     - [ELT](#elt)
-    - [Similar](#similar-1)
+    - [Similarity](#similarity-1)
     - [Difference](#difference-1)
 
 3. [Virtual Environment vs Virtual Machine vs Container](#ve-vm-con)
     - [Virtual Environment](#ve)
     - [Virtual Machine](#vm)
     - [Container](#con)
-    - [Similar](#similar-2)
+    - [Similarity](#similarity-2)
     - [Difference](#difference-2)
 
 
